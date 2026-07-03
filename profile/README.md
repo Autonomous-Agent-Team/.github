@@ -5,5 +5,5 @@
 ## 🚀 核心项目
 
 - **[Awesome-GUI-Agent-Safety](https://github.com/Autonomous-Agent-Team/Awesome-GUI-Agent-Safety)** ⭐ - GUI Agent 安全研究合集
-- **[SeerGuard](https://github.com/Autonomous-Agent-Team/JT-GUIGuard](https://github.com/Autonomous-Agent-Team/SeerGuard))** - 基于世界模型的GUI Agent安全护栏
+- **[SeerGuard](https://github.com/Autonomous-Agent-Team/SeerGuard)** - 基于世界模型的GUI Agent安全护栏
 
